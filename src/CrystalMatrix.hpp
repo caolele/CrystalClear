@@ -3,7 +3,6 @@
 //  CrystalClearKing
 //
 //  Created by Larry Cao on 16/12/18.
-//  Copyright © 2016 King. All rights reserved.
 //
 
 #ifndef CrystalMatrix_hpp
